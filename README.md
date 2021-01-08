@@ -8,7 +8,7 @@ The Cloud-1 project requires setting up the below on AWS:
 
     Creating a EC2 instance
     Installing Word Press and apache on the instance
-    Creatig an elastic IP for the instance
+    Creating an elastic IP for the instance
     Creating a DB, in my instance MariaDB
     Creating an S3 bucket to store media files which is publicly accessed
     Creating loadbalancers and autoscalling for distribution of traffic
